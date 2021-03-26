@@ -2,3 +2,8 @@ fichiers:
 rneurones_blog_lulu.ipynb
 rneurones_emotions.ipynb
 rneurones_word_embeding.ipynb
+
+B16brief.md (Sujet du brief)
+
+dataset
+./datas/text_emotion.csv (Non inclus dans le repo git)
